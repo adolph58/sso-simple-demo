@@ -17,8 +17,8 @@ http://localhost:80/oauth/token?grant_type=password&username=admin&password=1234
 
 填写 clientId 和 密码  
 图片地址：
-\resources\images\request-token.png
+oauth-server:\resources\images\request-token.png
 
 #### 2.带上 token 请求资源
 图片地址：  
-\resources\images\request-resource.png
+oauth-server:\resources\images\request-resource.png
